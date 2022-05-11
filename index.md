@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Likun Cai
+
 ## About Me
 
 <img class="profile-picture" src="./resources/my_pic.jpg">
