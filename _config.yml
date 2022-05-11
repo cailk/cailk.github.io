@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: Likun Cai
+nav:
+ - name: "About"
+   link: "/cailk.github.io/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
