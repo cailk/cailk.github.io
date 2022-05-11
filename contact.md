@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [cailikun007@@gmail.com](mailto:cailikun007@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: +86-13022185192
 
 ---
 
@@ -21,6 +21,6 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/likun-cai-9307551b2/)
+2. [Github](https://github.com/cailk)
+3. [Google Scholar](https://scholar.google.com/citations?user=5r6IM_gAAAAJ&hl=zh-CN)
