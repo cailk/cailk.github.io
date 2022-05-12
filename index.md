@@ -21,7 +21,7 @@ I am currently working on the following topics:
 
 *BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training* \\
 Likun Cai, Zhi Zhang, Yi Zhu, Li Zhang, Mu Li, Xiangyang Xue \\
-CVPRW 2022 [paper]() [code]()
+CVPRW 2022 [[paper]]() [[code]]()
 
 *Utilizing Amari-Alpha Divergence to Stabilize the Training of Generative Adversarial Networks* \\
 Likun Cai, Yanjie Chen, Ning Cai, Wei Cheng, Hao Wang \\
