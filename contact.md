@@ -7,20 +7,8 @@ is_contact: true
 
 * Phone: +86-13022185192
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Address: Songhu Road 2005, Shanghai 200438, China.
 
 ---
 
-## Social
-
-1. [LinkedIn](https://www.linkedin.com/in/likun-cai-9307551b2/)
-2. [Github](https://github.com/cailk)
-3. [Google Scholar](https://scholar.google.com/citations?user=5r6IM_gAAAAJ&hl=zh-CN)
+[LinkedIn](https://www.linkedin.com/in/likun-cai-9307551b2/) / [Github](https://github.com/cailk) / [Google Scholar](https://scholar.google.com/citations?user=5r6IM_gAAAAJ&hl=zh-CN)
