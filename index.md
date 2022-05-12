@@ -28,6 +28,6 @@ Likun Cai, Yanjie Chen, Ning Cai, Wei Cheng, Hao Wang \\
 Entropy 2020 [[paper]]() [[code]]()
 
 *Super-Resolution Coding Defense Against Adversarial Examples* \\
-Yanjie Chen$^*$, Likun Cai$^*$, Wei Cheng, Hao Wang \\
+Yanjie Chen\*, Likun Cai\*, Wei Cheng, Hao Wang \\
 ICMR 2020 [[paper]]()
 
