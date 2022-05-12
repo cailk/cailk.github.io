@@ -10,7 +10,7 @@ I am a second year Ph.D. student at Fudan University.
 Before that, I received my master degree in Computer Science from ShanghaiTech University, advised by [Prof. Ning Cai](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54749/page.htm). 
 I have interned at Tencent GY-Lab (Apr. 2020 ~ Aug. 2020) and AWS AI-Lab (Dec. 2020 ~ Present).
 
-## Research Interest
+## Research Interests
 
 I am currently working on the following topics:
 * Deep learning
@@ -25,9 +25,9 @@ CVPRW 2022 [[paper]]() [[code]]()
 
 *Utilizing Amari-Alpha Divergence to Stabilize the Training of Generative Adversarial Networks* \\
 Likun Cai, Yanjie Chen, Ning Cai, Wei Cheng, Hao Wang \\
-Entropy 2020 [paper]() [code]()
+Entropy 2020 [[paper]]() [[code]]()
 
 *Super-Resolution Coding Defense Against Adversarial Examples* \\
 Yanjie Chen$^*$, Likun Cai$^*$, Wei Cheng, Hao Wang \\
-ICMR 2020 [paper]()
+ICMR 2020 [[paper]]()
 
