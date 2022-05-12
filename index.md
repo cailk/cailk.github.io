@@ -6,34 +6,26 @@ layout: default
 
 <img class="profile-picture" src="./resources/my_pic.jpg">
 
-I am a third year graduate student in the School of Information Science and Technology in ShanghaiTech University, advised by [Prof. Ning Cai](). Before that, I got my bachelor’s degree from Xidian University.
+I am a second year Ph.D. student at Fudan University. 
+I received my master degree in Computer Science from ShanghaiTech University, advised by [Prof. Ning Cai](). 
 
 ## Research Interest
 
-Currently my research interests focus on computer vision and information theory.
+* Deep learning
+* Computer vision
+* Information theory
 
 ## Publications
 
-1. Pub-1
-2. Pub-2
+BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training \\
+Likun Cai, Zhi Zhang, Yi Zhu, Li Zhang, Mu Li, Xiangyang Xue \\
+CVPRW 2022 [paper]() [code]()
 
-## Typography
+Utilizing Amari-Alpha Divergence to Stabilize the Training of Generative Adversarial Networks \\
+Likun Cai, Yanjie Chen, Ning Cai, Wei Cheng, Hao Wang \\
+Entropy 2020 [paper]() [code]()
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+Super-Resolution Coding Defense Against Adversarial Examples \\
+Yanjie Chen$^*$, Likun Cai$^*$, Wei Cheng, Hao Wang \\
+ICMR 2020 [paper]()
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
