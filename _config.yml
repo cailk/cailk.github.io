@@ -3,7 +3,9 @@ title: Likun Cai
 nav:
  - name: "About"
    link: "/cailk.github.io/"
+ - name: "Publications"
+   link: "publications"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "LikunCai_CV_May2022_Updated.pdf"
  - name: "Contact"
    link: "contact"
