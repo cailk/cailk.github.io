@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="./resources/my_pic.jpg">
 
-I am a second-year Ph.D. student from Fudan University majoring in Computer Science. 
+I am a second-year Ph.D. student at Fudan University majoring in Computer Science. 
 Before that, I obtained my master's degree in Computer Science from ShanghaiTech University advised by [Prof. Ning Cai](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54749/page.htm) and my Bachelor’s degree from Xidian University in Spatial Information and Digital Technology.
 
 ---
