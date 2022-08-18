@@ -24,5 +24,5 @@ Before that, I obtained M.S. in Computer Science from ShanghaiTech University ad
 
 ## Research Interests
 
-I am currently interested in Deep Learning and Computer vision. My previous research work focuses specifically on large scale pre-training pipeline for object detection, combination of information theory and machine learning, generative models and adversarial attacks.
+I am currently interested in Deep Learning and Computer Vision. My previous research work focuses specifically on large scale pre-training pipeline for object detection, combination of information theory and machine learning, generative models and adversarial attacks.
 
