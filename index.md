@@ -18,7 +18,7 @@ Address: Songhu Road 2005, Shanghai 200438, China.
 ---
 
 ## Experience
-* **Research Intern**, AWS AI-Lab, With [Yi Zhu](https://bryanyzhu.github.io/), Dec. 2020 to Jul. 2022
+* **Research Intern**, AWS AI-Lab, With [Yi Zhu](https://bryanyzhu.github.io/) and [Zhi Zhang](https://scholar.google.com/citations?user=nZr0oXQAAAAJ&hl=en), Dec. 2020 to Jul. 2022
     - Investigated strong and robust 2D object detection system for real-world scenarios.
     - Investigated unsupervised segmentation with help of information clustering.
 * **Research Intern**, Tencent GY-Lab, with [Gang Yu](https://www.skicyyu.org/), Apr. 2020 to Aug. 2020
