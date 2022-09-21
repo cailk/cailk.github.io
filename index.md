@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="./resources/my_pic.jpg">
 
-I just quit the Ph.D. study at Fudan University, and I am looking for potential research labs for continuing my study. 
+I just quit the Ph.D. program at Fudan University, and I am looking for potential research labs for continuing my study. 
 Before that, I obtained M.S. in Computer Science from ShanghaiTech University supervised by [Ning Cai](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54749/page.htm) and B.E. in Spatial Information and Digital Technology from Xidian University.
 
 Email: cailikun007 [at] gmail [dot] com
@@ -20,11 +20,9 @@ Address: Songhu Road 2005, Shanghai 200438, China.
 ## Experience
 * **Research Intern**, AWS AI-Lab, With [Yi Zhu](https://bryanyzhu.github.io/), Dec. 2020 to Jul. 2022
     - Investigated strong and robust 2D object detection system for real-world scenarios.
-    - Investigated large-scale pre-training pipeline for object-level representation.
-    - Investigated open vocabulary object detection models with help of language information.
+    - Investigated unsupervised segmentation with help of information clustering.
 * **Research Intern**, Tencent GY-Lab, with [Gang Yu](https://www.skicyyu.org/), Apr. 2020 to Aug. 2020
-    - Investigated make-up transfer models for human face.
-    - Investigated face generative models with combination of GAN and 3DMM.
+    - Investigated make-up transfer models for human face with help of GAN and 3DMM.
 
 ---
 
