@@ -6,8 +6,8 @@ layout: default
 
 <img class="profile-picture" src="./resources/my_pic.jpg">
 
-I just quit the Ph.D. program at Fudan University, and I am looking for potential research labs for continuing my study. 
-Before that, I obtained M.S. in Computer Science from ShanghaiTech University supervised by [Ning Cai](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54749/page.htm) and B.E. in Spatial Information and Digital Technology from Xidian University.
+I just voluntarily withdrew the Ph.D. program at Fudan University, and am looking for potential research labs for continuing my study. 
+Prior to that, I obtained my Master's degree in Computer Science from ShanghaiTech University in 2020, supervised by [Prof. Ning Cai](https://sist.shanghaitech.edu.cn/sist_en/2020/0814/c7582a54749/page.htm), and my Bachelor's degree from Xidian University.
 
 Email: cailikun007 [at] gmail [dot] com
 
