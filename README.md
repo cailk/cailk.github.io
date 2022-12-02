@@ -1,2 +1,3 @@
 # cailk.github.io
-This is my website based on the theme from [researcher](https://github.com/ankitsultana/researcher). 
+Personal website: [https://cailk.github.io/](https://cailk.github.io/) 
+based on [jemdoc_mathjax](https://github.com/wsshin/jemdoc_mathjax). 

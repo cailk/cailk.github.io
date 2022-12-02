@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+[https://scholar.google.com/citations?user=5r6IM_gAAAAJ&hl=zh-CN Google Scholar]
+
+== 2022
+- BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training \n
+*Likun Cai*, Zhi Zhang, Yi Zhu, Li Zhang, Mu Li, Xiangyang Xue \n
+/Proceedings of the IEEE\/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2022: 4777-4787/ \n
+\[[https://arxiv.org/abs/2203.13249 Paper]\] \[[https://github.com/amazon-science/bigdetection Code]\]
+
+== 2020
+- Utilizing Amari-Alpha Divergence to Stabilize the Training of Generative Adversarial Networks \n
+*Likun Cai*, Yanjie Chen, Ning Cai, Wei Cheng, Hao Wang \n
+/Entropy 2020, 22(4), 410/ \n
+\[[https://www.mdpi.com/1099-4300/22/4/410 Paper]\] \[[https://github.com/cailk/AlphaGAN Code]\]
+
+- Super-Resolution Coding Defense Against Adversarial Examples \n
+Yanjie Chen, *Likun Cai*, Wei Cheng, Hao Wang \n
+/Proceedings of the 2020 International Conference on Multimedia Retrieval. 2020: 189-197/ \n
+\[[https://dl.acm.org/doi/abs/10.1145/3372278.3390689 Paper]\]
+
+
